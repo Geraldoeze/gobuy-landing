@@ -74,7 +74,7 @@ const featuresData: Feature[] = [
     ),
     title: "CutMagic",
     paragraph:
-      " our AI-powered tool automatically identifies and removes unnecessary or unwanted portions of video footage. It streamlines the video editing process by intelligently cutting and trimming video clips, making them more concise and engaging.",
+      "Our AI-powered tool automatically identifies and removes unnecessary or unwanted portions of video footage. It streamlines the video editing process by intelligently cutting and trimming video clips, making them more concise and engaging.",
   },
   {
     id: 1,
@@ -89,7 +89,7 @@ const featuresData: Feature[] = [
     ),
     title: "Clean Audio",
     paragraph:
-      "enhances and improves audio quality in videos. This typically involves the removal of background noise, reduction of audio interference, and optimization of sound clarity to create a more professional and polished audio experience.",
+      "Enhances and improves audio quality in videos. This typically involves the removal of background noise, reduction of audio interference, and optimization of sound clarity to create a more professional and polished audio experience.",
   },
   {
     id: 1,
@@ -104,7 +104,7 @@ const featuresData: Feature[] = [
     ),
     title: "AI Video Generator",
     paragraph:
-      " our technology is powered by artificial intelligence that can automatically create video content. It uses AI algorithms to assemble video clips, images, or animations based on predefined criteria, enabling the rapid generation of videos without manual editing.",
+      "Our technology is powered by artificial intelligence that can automatically create video content. It uses AI algorithms to assemble video clips, images, or animations based on predefined criteria, enabling the rapid generation of videos without manual editing.",
   },
   {
     id: 1,
@@ -119,7 +119,7 @@ const featuresData: Feature[] = [
     ),
     title: "AI Audio Generator",
     paragraph:
-      " our AI-driven tool generates audio content, such as voiceovers, background music, or sound effects, using artificial intelligence algorithms. It can create audio elements to complement video content or as standalone audio files.",
+      "Our AI-driven tool generates audio content, such as voiceovers, background music, or sound effects, using artificial intelligence algorithms. It can create audio elements to complement video content or as standalone audio files.",
   },
   {
     id: 1,
@@ -134,7 +134,7 @@ const featuresData: Feature[] = [
     ),
     title: "AI Image Generator",
     paragraph:
-      "utilizes artificial intelligence to generate images, illustrations, or graphics. It can create visual elements that enhance video content or be used independently to produce images based on user-defined parameters.",
+      "Utilizes artificial intelligence to generate images, illustrations, or graphics. It can create visual elements that enhance video content or be used independently to produce images based on user-defined parameters.",
   },
   {
     id: 1,
@@ -149,7 +149,7 @@ const featuresData: Feature[] = [
     ),
     title: "AI Captions Generator",
     paragraph:
-      " our tool employs AI technology to automatically generate captions or subtitles for videos. It analyzes spoken dialogue or audio content and generates text overlays that provide accessibility and improve content comprehension.",
+      "Our tool employs AI technology to automatically generate captions or subtitles for videos. It analyzes spoken dialogue or audio content and generates text overlays that provide accessibility and improve content comprehension.",
   },
 ];
 export default featuresData;

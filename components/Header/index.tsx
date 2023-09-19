@@ -38,9 +38,9 @@ const Header = () => {
   return (
     <>
       <header
-        className={`header top-0 left-0 z-40 flex w-full items-center bg-[#e69238c6] ${
+        className={`header top-0 left-0 z-40 flex w-full items-center bg-[#6ea7dc] ${
           sticky
-            ? "!fixed !z-[9999] !bg-[#e69138] !bg-opacity-20 shadow-sticky backdrop-blur-sm !transition "
+            ? "!fixed !z-[9999] !bg-[#6ea7dc] !bg-opacity-20 shadow-sticky backdrop-blur-sm !transition "
             : "absolute"
         }`}
       >
@@ -101,7 +101,7 @@ const Header = () => {
                         {menuItem.path && (
                           <Link
                             href={menuItem.path}
-                            className={`flex w py-2 text-base text-dark group-hover:opacity-70 dark:text-white lg:mr-0 lg:inline-flex lg:py-6 lg:px-0`}
+                            className={`flex w py-2 uppercase text-base text-dark group-hover:opacity-70 dark:text-white lg:mr-0 lg:inline-flex lg:py-6 lg:px-0`}
                           >
                             {menuItem.title}
                           </Link>

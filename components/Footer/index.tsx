@@ -13,19 +13,15 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-5/12">
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
-                <Image
-                  src="/images/gbhblack.webp"
-                  alt="logo"
-                  width={140}
-                  height={30}
-                  className="w-full"
-                />
-                  
+                  <Image
+                    src="/images/gbhblack.webp"
+                    alt="logo"
+                    width={140}
+                    height={30}
+                    className="w-full"
+                  />
                 </Link>
-                <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
-                </p>
+                <p className="mb-9 text-base font-medium leading-relaxed text-body-color"></p>
                 <div className="flex items-center">
                   <a
                     href="/"
@@ -99,25 +95,25 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Blog{" "}
+                      Home{" "}
                     </a>
                   </li>
                   <li>
                     <a
-                      href="/"
-                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
-                    >
-                      {" "}
-                      Pricing{" "}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
+                      href="/about"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
                       About{" "}
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="/"
+                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
+                    >
+                      {" "}
+                      Archive{" "}
                     </a>
                   </li>
                 </ul>
@@ -130,15 +126,6 @@ const Footer = () => {
                   Terms
                 </h2>
                 <ul>
-                  <li>
-                    <a
-                      href="/"
-                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
-                    >
-                      {" "}
-                      TOS{" "}
-                    </a>
-                  </li>
                   <li>
                     <a
                       href="/"
@@ -173,15 +160,6 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Open Support Ticket{" "}
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
-                    >
-                      {" "}
                       Terms of Use{" "}
                     </a>
                   </li>
@@ -199,7 +177,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-      
+
         <div className="absolute right-0 top-14 z-[-1]">
           <svg
             width="55"
@@ -274,7 +252,7 @@ const Footer = () => {
             </defs>
           </svg>
         </div>
-        <div className="absolute left-0 bottom-24 z-[-1]">
+        <div className="absolute bottom-24 left-0 z-[-1]">
           <svg
             width="79"
             height="94"

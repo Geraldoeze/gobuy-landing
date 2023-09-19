@@ -11,10 +11,10 @@ const Hero = () => {
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
               <div
-                className="wow fadeInUp mx-auto max-w-[950px] text-center"
+                className="wow fadeInUp mx-auto max-w-[1050px] text-center"
                 data-wow-delay=".2s"
               >
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-[#e69138]  sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                <h1 className="mb-5 text-3xl capitalize font-bold leading-tight text-[#e69138]  sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   The easiest short video editing platform to create, promote,
                   and share your content with your customers.
                 </h1>

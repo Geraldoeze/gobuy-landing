@@ -22,7 +22,7 @@ const AboutSectionOne = () => {
       <div className="container">
         <div className="border-b border-body-color/[.15] pb-16 md:pb-20 lg:pb-28">
           <div className="-mx-4 flex flex-wrap items-center">
-            <div className="w-full px-4 lg:w-1/2">
+            <div className="w-full px-12 lg:w-1/2">
               <SectionTitle title="How it works." paragraph="" mb="24px" />
 
               <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">

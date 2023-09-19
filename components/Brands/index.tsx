@@ -4,33 +4,27 @@ import Image from "next/image";
 const brandsData: Brand[] = [
   {
     id: 1,
-    name: "UIdeck",
-    href: "https://uideck.com",
-    image: "/images/brands/uideck.svg",
+    name: "Facebook",
+    href: "https://facebook.com",
+    image: "/images/brands/facebook.svg",
   },
   {
     id: 2,
-    name: "Tailgrids",
-    href: "https://tailgrids.com",
-    image: "/images/brands/tailgrids.svg",
+    name: "Twitter-X",
+    href: "https://twitter.com",
+    image: "/images/brands/twitter-x.svg",
   },
   {
     id: 3,
-    name: "Lineicons",
-    href: "https://lineicons.com",
-    image: "/images/brands/lineicons.svg",
+    name: "Instagram",
+    href: "https://instagram.com",
+    image: "/images/brands/instagram.svg",
   },
   {
     id: 4,
-    name: "GrayGrids",
-    href: "https://graygrids.com",
-    image: "/images/brands/graygrids.svg",
-  },
-  {
-    id: 5,
-    name: "TailAdmin",
-    href: "https://tailadmin.com",
-    image: "/images/brands/tailadmin.svg",
+    name: "LinkedIn",
+    href: "https://linkedin.com",
+    image: "/images/brands/linkedin.svg",
   },
 ];
 
@@ -41,7 +35,7 @@ const Brands = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
             <div
-              className="wow fadeInUp flex flex-wrap items-center justify-center rounded-md  py-8 px-8   sm:px-10 md:py-[40px] md:px-[50px] xl:p-[50px] 2xl:py-[60px] 2xl:px-[70px]"
+              className="wow bg-[#101032] fadeInUp flex flex-wrap items-center justify-center rounded-md  px-8 py-8   sm:px-10 md:px-[50px] md:py-[40px] xl:p-[50px] 2xl:px-[70px] 2xl:py-[60px]"
               data-wow-delay=".1s
               "
             >
@@ -67,7 +61,7 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
         href={href}
         target="_blank"
         rel="nofollow noreferrer"
-        className="relative h-10 w-full opacity-70 grayscale transition hover:opacity-100 hover:grayscale-0 dark:opacity-60 dark:hover:opacity-100"
+        className="relative h-10 w-full opacity-50 grayscale transition hover:opacity-100 hover:grayscale-0 "
       >
         <Image src={image} alt={name} fill />
       </a>

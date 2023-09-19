@@ -3,14 +3,13 @@ import AboutSectionTwo from "@/components/About/AboutSectionTwo";
 import AboutSectionThree from "@/components/About/AboutSectionThree";
 import AboutSectionFour from "@/components/About/AboutSectionFour";
 import AboutSectionFive from "@/components/About/AboutSectionFive";
-import Blog from "@/components/Blog";
+
 import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
-import Contact from "@/components/Contact";
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
-import Pricing from "@/components/Pricing";
-import Testimonials from "@/components/Testimonials";
+
+
 import Video from "@/components/Video";
 import { Inter } from "@next/font/google";
 
@@ -30,9 +29,9 @@ export default function Home() {
       <AboutSectionFour />
       <AboutSectionFive />
       {/* <Testimonials /> */}
-      {/* <Pricing /> */}
-      {/* <Blog /> */}
-      {/* <Contact />  */}
+      
+      
+      
     </>
   );
 }
