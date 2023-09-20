@@ -32,7 +32,7 @@ const AboutSectionOne = () => {
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                     Visit the Gobuyhub website and sign up for an account if
-                    you're a new user or log in if you already have an account.
+                    you&apos;re a new user or log in if you already have an account.
                   </p>
                 </div>
                 <div className="mb-6">
@@ -40,7 +40,7 @@ const AboutSectionOne = () => {
                    Step 2. Dashboard Access
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                    After logging in, you'll be directed to your dashboard,
+                    After logging in, you&apos;ll be directed to your dashboard,
                     where you can access your previous projects and start new
                     ones.
                   </p>
@@ -50,7 +50,7 @@ const AboutSectionOne = () => {
                    Step 3. Start a New Project
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                    Click on "Start New Project" to begin creating a new video
+                    Click on &apos;Start New Project&apos; to begin creating a new video
                     project.
                   </p>
                 </div>

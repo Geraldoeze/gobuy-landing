@@ -25,7 +25,7 @@ const Hero = () => {
                   plan to deploy these in the most simple ways for non-digital
                   natives. While our MVP focuses on video editing, our long-term
                   unique value proposition lies in our video elements analytics
-                  and data capabilities. We're pioneering a new era of
+                  and data capabilities. We&apos;re pioneering a new era of
                   data-driven video content, where insights fuel creativity and
                   engagement.
                 </p>

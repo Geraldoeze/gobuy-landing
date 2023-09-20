@@ -8,14 +8,7 @@ const checkIcon = (
 );
 
 const AboutSectionFive = () => {
-  const List = ({ text }) => (
-    <p className="mb-5 flex items-center text-lg font-medium text-body-color">
-      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
-        {checkIcon}
-      </span>
-      {text}
-    </p>
-  );
+ 
 
   return (
     <section id="about" className="pt-16 md:pt-20 lg:pt-28">
@@ -30,7 +23,7 @@ const AboutSectionFive = () => {
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                     Share your edited video directly to your preferred social
-                    media platforms or website using Gobuyhub's seamless
+                    media platforms or website using Gobuyhub&apos;s seamless
                     integration feature.
                   </p>
                 </div>
@@ -39,8 +32,8 @@ const AboutSectionFive = () => {
                     Step 14: Analyze Insights (Optional){" "}
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                    If you want to gain insights into your video's performance,
-                    use the "AI-Powered Insights" feature to track viewer
+                    If you want to gain insights into your video&apos;s performance,
+                    use the &apos;AI-Powered Insights&apos; feature to track viewer
                     engagement and refine your content strategy.
                   </p>
                 </div>

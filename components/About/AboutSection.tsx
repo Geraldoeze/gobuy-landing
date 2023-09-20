@@ -8,14 +8,6 @@ const checkIcon = (
 );
 
 const AboutSection = () => {
-  const List = ({ text }) => (
-    <p className="mb-5 flex items-center text-lg font-medium text-body-color">
-      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
-        {checkIcon}
-      </span>
-      {text}
-    </p>
-  );
 
   return (
     <section id="about" className="pt-16 md:pt-20 lg:pt-28">
@@ -53,9 +45,9 @@ const AboutSection = () => {
                     Our Advantage
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                    At its core, we’re an AI-powered short-form video editor
+                    At its core, we are an AI-powered short-form video editor
                     designed to simplify your video creation process. Whether
-                    you're showcasing products, sharing stories, or promoting
+                    you&apos;re showcasing products, sharing stories, or promoting
                     your brand, our platform equips you with the tools to easily
                     create stunning videos and disseminate them to several
                     platforms.

@@ -29,7 +29,7 @@ const AboutSectionThree = () => {
                     Step 7. Add Effects
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Enhance your video by adding effects, transitions, and text overlays. Gobuyhub's AI Video Editor automatically recommends and provides a range of creative options to make your video captivating.
+                  Enhance your video by adding effects, transitions, and text overlays. Gobuyhub&apos;s AI Video Editor automatically recommends and provides a range of creative options to make your video captivating.
 
                   </p>
                 </div>
@@ -38,7 +38,7 @@ const AboutSectionThree = () => {
                     Step 8. Clean Audio
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Use the "Clean Audio" feature to improve the audio quality of your video. Gobuyhub's AI Clean Audio editors automatically detect and recommend the removal of background noise, detect copyrighted music, and optimize sound clarity for a professional touch.
+                  Use the &apos;Clean Audio&apos; feature to improve the audio quality of your video. Gobuyhub&apos;s AI Clean Audio editors automatically detect and recommend the removal of background noise, detect copyrighted music, and optimize sound clarity for a professional touch.
                   </p>
                 </div>
                 <div className="mb-1">
@@ -46,7 +46,7 @@ const AboutSectionThree = () => {
                     Step 9.  AI Enhancements
                   </h3>
                   <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Explore AI-powered enhancements like the "AI Video Generator" to create additional video content automatically and the "AI Audio Generator" to generate audio elements.
+                  Explore AI-powered enhancements like the &apos;AI Video Generator&apos; to create additional video content automatically and the &apos;AI Audio Generator&apos; to generate audio elements.
 
                   </p>
                 </div>

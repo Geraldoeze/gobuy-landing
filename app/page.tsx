@@ -11,9 +11,8 @@ import Hero from "@/components/Hero";
 
 
 import Video from "@/components/Video";
-import { Inter } from "@next/font/google";
 
-const inter = Inter({ subsets: ["latin"] });
+
 
 export default function Home() {
   return (
@@ -28,9 +27,6 @@ export default function Home() {
       <AboutSectionThree />
       <AboutSectionFour />
       <AboutSectionFive />
-      {/* <Testimonials /> */}
-      
-      
       
     </>
   );

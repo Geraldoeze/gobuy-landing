@@ -24,7 +24,7 @@ const AboutSectionTwo = () => {
                 Step 10. Add Captions
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                If needed, use the "AI Captions Generator" to automatically generate captions or subtitles for your video, improving accessibility and viewer engagement.
+                If needed, use the &apos;AI Captions Generator&apos; to automatically generate captions or subtitles for your video, improving accessibility and viewer engagement.
 
                 </p>
               </div>
@@ -42,7 +42,7 @@ const AboutSectionTwo = () => {
                   Step 12. Save and Export
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Once you're satisfied with your edited video, save your project and export the final video in your preferred format. Gobuyhub supports various video formats for compatibility.
+                Once you&apos;re satisfied with your edited video, save your project and export the final video in your preferred format. Gobuyhub supports various video formats for compatibility.
                 </p>
               </div>
             </div>

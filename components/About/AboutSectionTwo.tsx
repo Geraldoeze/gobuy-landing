@@ -34,7 +34,7 @@ const AboutSectionTwo = () => {
                  Step 5. Video Editor
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  You'll be directed to the video editor interface. Here, you
+                  You&apos;ll be directed to the video editor interface. Here, you
                   can see your uploaded video clips in a timeline format.
                 </p>
               </div>
@@ -43,7 +43,7 @@ const AboutSectionTwo = () => {
                   Step 6. Trim and Cut
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Click on the "CutMagic" feature, powered by AI, to
+                  Click on the &apos;CutMagic&apos; feature, powered by AI, to
                   automatically identify and remove unnecessary parts of your
                   video. You can also manually trim and cut video clips as
                   needed.
