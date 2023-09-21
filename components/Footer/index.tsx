@@ -107,15 +107,7 @@ const Footer = () => {
                       About{" "}
                     </a>
                   </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
-                    >
-                      {" "}
-                      Archive{" "}
-                    </a>
-                  </li>
+                 
                 </ul>
               </div>
             </div>
