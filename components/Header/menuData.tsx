@@ -13,13 +13,5 @@ const menuData: Menu[] = [
     path: "/about",
     newTab: false,
   },
-
-{
-    id: 3,
-    title: "Archive",
-    path: "#",
-    newTab: false,
-  },
-  
 ];
 export default menuData;
